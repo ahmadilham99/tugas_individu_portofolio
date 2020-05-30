@@ -1,0 +1,5 @@
+# tugas_individu_portofolio 
+
+# NAMA  : AHMAD ILHAM ALI MASHUDI
+# NIM   : 18051204075
+# PRODI : S1 TEKNIK INFORMATIKA (B)
